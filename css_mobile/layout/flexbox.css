@@ -1,0 +1,18 @@
+.main_container{
+    width: 100%;
+}
+
+.filtre_flex{
+    display:flex;
+    align-items: center;
+}
+
+.info{
+    display: flex;
+    align-items: center;
+}
+
+
+.hebergement_container{
+    display: flex;
+}

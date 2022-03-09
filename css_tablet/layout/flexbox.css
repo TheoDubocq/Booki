@@ -1,0 +1,17 @@
+.main_container{
+    padding: 0px 40px 0px 40px;
+}
+
+.filtre_flex{
+    display:flex;
+    align-items: center;
+}
+
+.info{
+    display: flex;
+    align-items: center;
+}
+
+.hebergement_container{
+    display: flex;
+}

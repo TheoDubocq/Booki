@@ -1,0 +1,23 @@
+footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: #f2f2f2;
+    margin-top: 50px;
+}
+
+li a{
+
+    text-decoration: none;
+    line-height: 30px;
+}
+
+.footer_list{
+    margin-left: 40px;
+}
+
+.footer_list:nth-child(3){
+    margin-right: 500px;
+}
+.ul_footer{   
+    padding-left:  0px;
+    list-style: none;}

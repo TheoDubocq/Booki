@@ -1,0 +1,72 @@
+.recherche{
+    display:flex;
+    height: 40px;
+    width: 500px;
+}
+.text{
+    font-size: 18px;
+    font-family: raleway;
+  
+}
+.fa-magnifying-glass{
+    display: none;
+}
+.location_item{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    padding-left: 2px;
+   
+    background-color: #F2F2F2;
+    border-radius: 15px 0px 0px 15px;   
+
+}
+.champ{
+    width: 250px;
+    height: 40px;
+    font-weight:bold;
+    padding-left: 10px;
+    border: solid #F2F2F2 2px;
+    background-color: white;
+}
+.formulaire{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 40px;}
+
+.bouton{
+    position: relative;
+    width: 120px;
+    height: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #0065fc;
+    border-radius: 0px 15px 15px 0px;   
+}
+.btn{
+
+    border-radius: 0px 15px 15px 0px;     
+    background:none;
+    color:white;
+    font-size: 15px;
+    font-family: 'Raleway', sans-serif;
+    font-weight:bold;
+    border: 0;
+    }
+
+.bouton:hover{
+    cursor:pointer;
+}
+.btn:hover{
+    cursor:pointer;
+}
+
+.bouton:active{
+    background-color: #002efcd7;
+}

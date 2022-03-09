@@ -1,0 +1,35 @@
+header{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+nav ul{
+
+    list-style: none;
+    display: flex;
+    
+    
+}
+
+nav li a
+{
+    text-decoration: none;
+    padding: 31px 15px 0px 15px;
+    margin-top: 30px;
+    margin-right: 20px;
+}
+
+a:visited{
+    color: black;
+}
+.a_header:hover{
+    border-top: 3px solid ;
+    color: #0065fc;
+}
+
+.logo{
+    width: 100px;
+    margin-top: 40px;
+}
