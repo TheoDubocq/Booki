@@ -8,9 +8,12 @@
     font-family: raleway;
   
 }
+
+/* GLASS OF THE VERSION MOBILE DISPLAY NONE*/
 .fa-magnifying-glass{
     display: none;
 }
+/*LOCATION ICON*/
 .location_item{
     display: flex;
     flex-direction: column;
@@ -24,6 +27,7 @@
     border-radius: 15px 0px 0px 15px;   
 
 }
+/* WRITING AREA */
 .champ{
     width: 250px;
     height: 40px;
@@ -37,7 +41,7 @@
     flex-direction: column;
     justify-content: center;
     height: 40px;}
-
+/* BACKGROUND OF THE BUTTON */
 .bouton{
     position: relative;
     width: 120px;
@@ -49,6 +53,8 @@
     background-color: #0065fc;
     border-radius: 0px 15px 15px 0px;   
 }
+
+/* WORD "RECHERCHER" */
 .btn{
 
     border-radius: 0px 15px 15px 0px;     

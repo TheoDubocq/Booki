@@ -3,13 +3,14 @@
     width:100%;
 }
 
-
+/* BACKGROUND*/
 .article_hebergement{
     background-color: #f2f2f2;
     border-radius: 20px;
     width: 75%;
 }
 
+/* CARD STYLE */
 .card_large{
     display: flex;
     flex-direction: column;
@@ -43,7 +44,7 @@
     color: #0065fc;
 }
 
-
+/* CHANGE THE NUMBER OF STAR ON A CARD*/
 .card_note4 :nth-child(5){
     color: #f2f2f2;
 }
@@ -62,6 +63,7 @@
     font-weight: bold;
 }
 
+/*LITTLE ANIMATION WHEN MOUSE HOVER CARD*/
 .card_large:hover{
     transition: 0.3s;
     margin-bottom: 15px;

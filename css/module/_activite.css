@@ -6,10 +6,12 @@
 .article_activite h2{
     width: 100%;
 }
+/* DISPOTION OF THE TWO CONTAINER */
 .container_activite{
     display:flex;
     width: 50%;
 }
+/* ALL THE CONTAINERS HAVE THE SAME HEIGHT */
 .container_cardActivite{
     display: flex;
     flex-direction: column;
@@ -17,6 +19,8 @@
     height: 400px;
     margin: 0px 40px 0px 0px;
 }
+
+/* THE CARD AND THE IMG SIZE ARE DIFFERENT FOR KEEP A SPACE FOR THE TITLE SO ALL CARD NEED AN IMG AND CARD STYLE DIFFERENT */
 .card_activiteXlarge{
     border-radius: 20px;
     box-shadow: 0 3px 8px 0 rgba(0,0,0,0.3);

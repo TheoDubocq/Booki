@@ -1,3 +1,6 @@
+/* CSS FOR GENERAL THING LIKE BOX SIZING OR TITLE STYLE*/
+
+
 *{box-sizing: border-box;}
 
 h2{
@@ -11,6 +14,8 @@ h2{
 h3{
     margin:5px 0px 0px 5px;
 }
+
+/* USE FOR BOLD PRICE ON CARD */
 span{
     font-weight: bold;
 }

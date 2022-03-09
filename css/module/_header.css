@@ -5,6 +5,7 @@ header{
     align-items: center;
 
 }
+/*Style of list and link in the list */
 nav ul{
 
     list-style: none;
@@ -24,11 +25,14 @@ nav li a
 a:visited{
     color: black;
 }
+
+/*MOUSE HOVER PUT THE SOLID BORDER UP*/
 .a_header:hover{
     border-top: 3px solid ;
     color: #0065fc;
 }
 
+/*LOGO POSITION*/
 .logo{
     width: 100px;
     margin-top: 40px;

@@ -27,7 +27,6 @@ padding-left: 40px;
 }
 .filtre_box{
     display: flex;
-    justify-content: baseline;
     align-items: center;   
     padding:15px 15px 15px 26px;
     margin: 15px 30px 15px 30px;
