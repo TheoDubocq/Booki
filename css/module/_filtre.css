@@ -2,12 +2,11 @@
 margin: 0;
 padding-left: 40px;
 }
-
+/*ALL ICON OF THE FILTRE STYLE BACKGROUND AND COLOR*/
 .filtre_icon{
     position: absolute;
     margin: 30px 0px 0px 30px;
-    padding: 11px;
-    
+    padding: 11px;  
     border-radius: 20px;
     color: #0065fc;
     background-color: #DEEBFF;
@@ -17,18 +16,18 @@ padding-left: 40px;
 font-weight: bold;
 }
 
+/*STYLE OF THE FILTRE*/
 .filtre_box{
     display: flex;
-    align-items: center;
- 
-       
+    align-items: center;  
     padding:8px 10px 8px 0px;
     margin: 30px;
     border: solid #f2f2f2 2px;
-    
     border-radius: 20px 20px 20px 20px;  
 }
 
+
+/*ANIMATION HOVER FILTRE*/
 .filtre_box:hover{
     transition: 0.3s;
 background-color: #0065fc;
