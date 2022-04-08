@@ -67,7 +67,6 @@
 .card_large:hover{
     transition: 0.3s;
     margin-bottom: 15px;
-    border: #0065fc solid 2px;
     box-shadow: 0 10px 16px 0 rgba(0,0,0,0.3);
     cursor: pointer;
 }

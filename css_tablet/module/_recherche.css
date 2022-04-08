@@ -9,7 +9,7 @@
   
 }
 .fa-magnifying-glass{
-    display: none;
+    display: none !important;
 }
 .location_item{
     display: flex;

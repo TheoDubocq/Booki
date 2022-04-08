@@ -5,9 +5,8 @@ padding-left: 40px;
 
 .filtre_icon{
     position: absolute;
-    margin: 15px 0px 0px 30px;
+    margin: 15px 0px 0px 0px;
     padding: 18px;
-    
     border-radius: 30px;
     color: #0065fc;
     background-color: #DEEBFF;
@@ -29,7 +28,7 @@ padding-left: 40px;
     display: flex;
     align-items: center;   
     padding:15px 15px 15px 26px;
-    margin: 15px 30px 15px 30px;
+    margin: 15px 30px 15px 0px;
     border: solid #f2f2f2 2px;
     border-radius: 30px 30px 30px 30px;  
 }

@@ -10,8 +10,8 @@
 }
 
 /* GLASS OF THE VERSION MOBILE DISPLAY NONE*/
-.fa-magnifying-glass{
-    display: none;
+.glass{
+    display: none !important;
 }
 /*LOCATION ICON*/
 .location_item{

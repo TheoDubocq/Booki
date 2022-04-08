@@ -52,7 +52,7 @@
 }
 .btn{display: none;}
 
-.fa-magnifying-glass{
+.glass{
     display: flex;
     justify-content: center;
     align-items: center;
